@@ -1,0 +1,26 @@
+{
+  "config.citresewn.title": "Configuration de CIT Resewn",
+  "config.citresewn.configure": "Configurer",
+
+  "config.citresewn.enabled.title": "Activé",
+  "config.citresewn.enabled.tooltip": "CIT Resewn devrait-il charger et injecter les cits des packs de ressources",
+
+  "config.citresewn.mute_errors.title": "Désactiver les erreurs de chargement",
+  "config.citresewn.mute_errors.tooltip": "Est-ce que CIT Resewn devrait ne pas enregistrer les erreurs cit",
+
+  "config.citresewn.mute_warns.title": "Désactiver les avertissements de chargement",
+  "config.citresewn.mute_warns.tooltip": "Est-ce que CIT Resewn devrait ne pas enregistrer les avertissements cit",
+
+  "config.citresewn.broken_paths.title": "Autoriser les mauvais chemins dans les packs de ressources",
+  "config.citresewn.broken_paths.tooltip": "Autoriser les packs avec des chemins de ressources illégales à charger.\nPeux causer des erreurs!",
+
+  "config.citresewn.cache_ms.title": "Cache",
+  "config.citresewn.cache_ms.tooltip": "À quelle fréquence le cache de cit devrait être actualisé.\nLes valeurs plus élevées résulteront en plus de performances.\nLes valeurs plus basses résulteront aux rafraichissements plus rapides des cits.\nTEMPS RÉEL retirera complètement le cache,\n ce qui résultera aux items de vérifier les cits tout les images.",
+  "config.citresewn.cache_ms.ticks.0": "TEMPS RÉEL",
+  "config.citresewn.cache_ms.ticks.1": "À CHAQUE IMAGE",
+  "config.citresewn.cache_ms.ticks.any": "À CHAQUE %s IMAGE",
+
+
+  "pack.incompatible.broken_paths": "(Contient des chemins brisés)",
+  "pack.incompatible.confirm.broken_paths": "Ce pack contient des chemins brisés et son support pourrait être abandonné dans le futur. Contactez l'auteur du pack pour retirer cet avertissement. (~ CIT Resewn)"
+}
